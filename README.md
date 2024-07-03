@@ -1,6 +1,5 @@
 ### Hi, I'm Eric 👋
 - 🌱 I’m currently learning Data Science
-- 😄 Pronouns: he/him
 
 ##
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricArnou&show_icons=true&theme=dark)
