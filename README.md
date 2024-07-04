@@ -1,15 +1,17 @@
-### Hi, I'm Eric 👋
-- 🌱 I’m currently learning Data Science
+### Olá! Eu sou o Eric 👋
 
 ##
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricArnou&show_icons=true&theme=dark)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricArnou&show_icons=true&theme=dark&locale=pt-br&hide=issues&layout=compact&card_width=400&line_height=24%border_color=d3d3d3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&locale=pt-br&card_width=200)
 
 ##
+
+#### Linguagens, Frameworks e demais ferramentas que já trabalhei:
 <div style="display: inline_block"><br/>
-    <img height = 30 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img height = 30 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img height = 30 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-    <img height = 30 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+    <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ##
