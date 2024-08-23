@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Eric 👋
 
 ##
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricArnou&show_icons=true&theme=dark&locale=pt-br&hide=issues&layout=compact&card_width=400&line_height=24%border_color=d3d3d3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&locale=pt-br&card_width=200)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricArnou&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&locale=pt-br&card_width=200)
 
 ##
 
