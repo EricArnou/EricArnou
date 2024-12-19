@@ -1,9 +1,10 @@
-### Olá! Eu sou o Eric 👋
+# Hi there! I'm Eric 👋
 
-##
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricArnou&show_icons=true&theme=dracula)
+- Graduated in Science and Technology and studying Computer Science at the Federal University of ABC
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&locale=pt-br&card_width=200)
+- Interested in Software Development and Engineering. I also have knowledge in Data Engineering
+
+- I am developing myself to specialize in Java, Spring and Software Architecture
 
 ##
 
@@ -13,6 +14,9 @@
     <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img height = 45 wight = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+          
 </div>
 
 ##
